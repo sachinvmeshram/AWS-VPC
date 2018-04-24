@@ -1,0 +1,1 @@
+aws cloudformation create-stack --stack-name Non-Prod-VPC --template-body file://C:\"complate path of your template file" --parameters file://C:\"complate path of your parameter file"

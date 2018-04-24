@@ -1,0 +1,23 @@
+[
+  {
+    "ParameterKey": "VPCName",
+    "ParameterValue": "Private-Non-Prod-VPC"
+  },
+  {
+    "ParameterKey": "VPCCIDR",
+    "ParameterValue": "10.171.88.0/21"
+  }, 
+  {
+    "ParameterKey": "PrivateSubnetName",
+    "ParameterValue": "PrivateSubnet"
+  },  
+  {
+    "ParameterKey": "PrivateSubnetCIDR1",
+    "ParameterValue": "10.171.88.0/22"
+  },
+  {
+    "ParameterKey": "PrivateSubnetCIDR2",
+    "ParameterValue": "10.171.92.0/22"
+  
+  }
+]
